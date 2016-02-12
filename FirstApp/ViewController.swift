@@ -2,9 +2,12 @@
 //  ViewController.swift
 //  FirstApp
 //
-//  Created by Nicola Bates on 12/02/2016.
+//  Created by Nic on 12/02/2016.
 //  Copyright © 2016 NJBWorks. All rights reserved.
 //
+
+
+//Using free GitHub can be very dangerous!!! Be careful what you commit!!!
 
 import UIKit
 
