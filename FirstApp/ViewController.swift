@@ -7,7 +7,7 @@
 //
 
 
-//Using free GitHub can be very dangerous!!! Be careful what you commit!!!
+//Using free GitHub can be very dangerous!!! Can't make private. Hmmm, be careful what you commit eh!!!
 
 import UIKit
 
